@@ -1,2 +1,7 @@
-.idea
-out
+*.iml
+
+## Directory-based project format:
+.idea/
+
+# IntelliJ
+/out/

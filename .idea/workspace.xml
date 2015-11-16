@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="340cb04c-f8a4-4bc7-81f6-e077ad06f907" name="Default" comment="finish all features">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/InputParser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/InputParserTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/PokerHandTest$PockerHandMock.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/localWinAgainstable.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/LocalWinAgainstable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/card/Card.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/card/Card.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/card/CardTest.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/card/CardTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/Flush.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/Flush.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/FourOfAKind.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/FourOfAKind.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/FullHouse.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/FullHouse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/HighCard.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/HighCard.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/HighCardTest.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/HighCardTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/Main.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/Pair.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/Pair.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/PairTest.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/PairTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/PokerHand.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/PokerHand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/PokerHandFactory.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/PokerHandFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/PokerHandFactoryTest.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/PokerHandFactoryTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/PokerHandTest.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/PokerHandTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/Straight.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/Straight.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/StraightFlush.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/StraightFlush.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/ThreeOfAKind.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/ThreeOfAKind.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/TwoPairs.class" afterPath="$PROJECT_DIR$/out/production/PokerHandJava/com/kata/pokerhand/hand/TwoPairs.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/card/Card.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/card/Card.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/card/CardTest.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/card/CardTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/Committee.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/Committee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/CommitteeTest.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/CommitteeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/Flush.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/Flush.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/FlushTest.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/FlushTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/FourOfAKind.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/FourOfAKind.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/FourOfAKindTest.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/FourOfAKindTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/FullHouse.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/FullHouse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/FullHouseTest.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/FullHouseTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/HighCard.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/HighCard.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/HighCardTest.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/HighCardTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/Main.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/Pair.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/Pair.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/PairTest.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/PairTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/PokerHand.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/PokerHand.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/PokerHandFactory.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/PokerHandFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/PokerHandFactoryTest.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/PokerHandFactoryTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/PokerHandTest.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/PokerHandTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/Straight.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/Straight.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/StraightFlush.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/StraightFlush.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/StraightFlushTest.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/StraightFlushTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/StraightTest.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/StraightTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/ThreeOfAKind.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/ThreeOfAKind.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/ThreeOfAKindTest.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/ThreeOfAKindTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/TwoPairs.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/TwoPairs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/TwoPairsTest.java" afterPath="$PROJECT_DIR$/src/com/kata/pokerhand/hand/TwoPairsTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PokerHandJava.iws" />
@@ -98,20 +50,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.13636364">
-              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.10444874">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kata/pokerhand/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8118196">
+            <state vertical-scroll-proportion="0.0">
               <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -232,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/com/kata/pokerhand/InputParser.java" />
         <option value="$PROJECT_DIR$/src/com/kata/pokerhand/InputParserTest.java" />
         <option value="$PROJECT_DIR$/src/com/kata/pokerhand/Main.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -816,7 +769,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970297" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32970297" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3990099" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -828,7 +781,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16719915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33564356" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33564356" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -1320,14 +1273,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.13636364">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kata/pokerhand/InputParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1352,11 +1297,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kata/pokerhand/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8118196">
+        <state vertical-scroll-proportion="0.0">
           <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10444874">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
