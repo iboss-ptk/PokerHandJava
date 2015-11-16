@@ -74,4 +74,15 @@ public class CardTest {
         assertEquals(tenSpade.valueDifferenceFrom(tenHeart), 0);
         assertEquals(tenSpade.valueDifferenceFrom(queenHeart), -2);
     }
+
+    @Test
+    public void getIntValueReturnIntegerRankOfCardValue() {
+        Card queenHeart = new Card('Q', 'H');
+        Card twoClub = new Card('T', 'C');
+        Card tenSpade = new Card('2', 'S');
+
+        assertEquals(queenHeart.getIntValue(), 12);
+        assertEquals(twoClub.getIntValue(), 2);
+        assertEquals(tenSpade.getIntValue(), 10);
+    }
 }

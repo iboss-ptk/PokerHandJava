@@ -16,7 +16,7 @@ public class PairTest {
 
     Card[] cardsTwo = {
             new Card('7', 'C'),
-            new Card('7', 'H'),
+            new Card('3', 'H'),
             new Card('5', 'S'),
             new Card('2', 'H'),
             new Card('2', 'D')
@@ -30,16 +30,19 @@ public class PairTest {
             new Card('2', 'D')
     };
 
-    HighCard highCardOne = new HighCard(cardsOne);
-    HighCard highCardTwo = new HighCard(cardsTwo);
-    HighCard highCardThree = new HighCard(cardsThree);
+    Pair pairOne = new Pair(cardsOne);
+    Pair pairTwo = new Pair(cardsTwo);
+    Pair pairThree = new Pair(cardsThree);
 
     @Test
-    public void isWinAgainstInSameHandClassShouldCompareHighestPairValueCard() {
-        assertEquals(highCardOne.isWinAgainstInSameHandClass(highCardTwo), false);
-        assertEquals(highCardTwo.isWinAgainstInSameHandClass(highCardOne), true);
+    public void isWinAgainstInSameHandClassShouldComparePairValue() {
+        assertEquals(pairOne.isWinAgainstLocal(pairTwo), true);
+        assertEquals(pairTwo.isWinAgainstLocal(pairOne), false);
+    }
 
-        assertEquals(highCardThree.isWinAgainstInSameHandClass(highCardTwo), false);
-        assertEquals(highCardTwo.isWinAgainstInSameHandClass(highCardThree), true);
+    @Test
+    public void isWinAgainstInSameHandClassShouldCompareHighestCardWhenPairValueIsEqual() {
+        assertEquals(pairThree.isWinAgainstLocal(pairTwo), true);
+        assertEquals(pairTwo.isWinAgainstLocal(pairThree), false);
     }
 }

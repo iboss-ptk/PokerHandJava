@@ -57,4 +57,9 @@ public class Card {
         return thisQuantifiedValue - anotherCardQuantifiedValue;
     }
 
+    public int getIntValue() {
+        // start from 2
+        return acceptableAndRankedValueList.indexOf(this.value) + 2;
+    }
+
 }

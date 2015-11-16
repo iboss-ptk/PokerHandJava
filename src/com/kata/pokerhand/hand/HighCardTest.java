@@ -27,7 +27,7 @@ public class HighCardTest {
 
     @Test
     public void isWinAgainstInSameHandClassShouldCompareHighestValueCard() {
-        assertEquals(highCardOne.isWinAgainstInSameHandClass(highCardTwo), false);
-        assertEquals(highCardTwo.isWinAgainstInSameHandClass(highCardOne), true);
+        assertEquals(highCardOne.isWinAgainstLocal(highCardTwo), false);
+        assertEquals(highCardTwo.isWinAgainstLocal(highCardOne), true);
     }
 }
